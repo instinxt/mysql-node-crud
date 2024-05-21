@@ -2,7 +2,7 @@
 
 ## Steps to start the project
 
-- [ ] Create database running the given sql query in database.sql in Mysql Client
+- [ ] Create database running the sql query from database.sql in Mysql Client
 - [ ] Configure your Mysql credentials in .env.example in Backend Directory
 
 ```
